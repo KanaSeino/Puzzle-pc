@@ -42,6 +42,7 @@
   width: 100px;
   height: 150px;
   background-color: #ff9e6b;
+  float: left;
 }
 .midRight_bottom {
   height: 100px;
